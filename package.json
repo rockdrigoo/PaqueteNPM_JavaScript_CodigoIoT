@@ -1,0 +1,22 @@
+{
+  "name": "paquetenpm_javascript_codigoiot",
+  "version": "1.0.0",
+  "description": "package creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockdrigoo/PaqueteNPM_JavaScript_CodigoIoT.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "rockdrigoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockdrigoo/PaqueteNPM_JavaScript_CodigoIoT/issues"
+  },
+  "homepage": "https://github.com/rockdrigoo/PaqueteNPM_JavaScript_CodigoIoT#readme"
+}
